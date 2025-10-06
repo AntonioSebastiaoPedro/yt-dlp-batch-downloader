@@ -156,7 +156,3 @@ nohup python batch_downloader.py > output.log 2>&1 &
 ## 🤝 Contribuições
 
 Sinta-se à vontade para melhorar o script e compartilhar suas modificações!
-
----
-
-**Criado com ❤️ usando Cascade AI**
