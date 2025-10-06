@@ -1,0 +1,10 @@
+# Arquivo de exemplo com URLs de playlists
+# Linhas que começam com # são comentários e serão ignoradas
+# Coloque uma URL por linha
+
+# Exemplo de playlists (substitua pelas suas URLs):
+# https://www.youtube.com/playlist?list=PLrAXtmRdnEQy6nuLMHjMZOz59Oq8HmPME
+# https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+# https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME
+
+# Adicione suas URLs de playlists abaixo:
