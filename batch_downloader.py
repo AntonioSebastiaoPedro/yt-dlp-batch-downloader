@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """
 Script para download automático de múltiplas playlists usando yt-dlp
-Autor: Criado com Cascade AI
+Autor: António Sebastião Pedro
 """
 
-import os
 import sys
 import time
 import logging
