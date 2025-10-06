@@ -66,7 +66,6 @@ class PlaylistDownloader:
         # Comando yt-dlp com configurações otimizadas
         cmd = [
             'yt-dlp',
-            '--extract-flat', 'false',  # Extrair informações completas
             '--write-info-json',        # Salvar metadados
             '--write-thumbnail',        # Salvar thumbnails
             '--embed-chapters',         # Incorporar capítulos
